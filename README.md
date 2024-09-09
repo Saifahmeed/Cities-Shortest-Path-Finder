@@ -35,8 +35,6 @@ To use the program:
 
 - **Author**: Saif Ahmed Elsayed Abd Elfattah
 
-This project is part of an assignment and serves as a tool for analyzing network graphs efficiently.
-
 ---
 
 Feel free to contribute, suggest improvements, or report issues!
